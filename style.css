@@ -1,0 +1,12 @@
+body {
+    color: white;
+    background-color: darkolivegreen;
+    padding-top: 4em;
+    line-height: 5em;
+    text-align: center;
+    font-size: 25px;
+}
+
+h3 {
+    text-decoration: underline;
+}
